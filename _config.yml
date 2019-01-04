@@ -1,5 +1,5 @@
-title:            Site Titl
-description:      Describe your website here.
+title:            4thMemorize
+description:      Personal Daily Log
 disqus_shortname:
 reading_time:     true
 words_per_minute: 200
@@ -9,19 +9,15 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           4thMemorize
+  avatar:         buzz.jpg
+  bio:            All of contact is welcome whether it is for business or not
+  email:          binu2893@naver.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
+  twitter: 4thMemorize
+  facebook: 4thMemoirze
+  github: 4thMemorize
+  instagram: kowoobin_12.28
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
@@ -35,7 +31,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Seoul
 future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
