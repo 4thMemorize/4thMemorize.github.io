@@ -1,0 +1,38 @@
+*{
+  font-family: Sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  margin-left: 30px;
+}
+
+body {
+  margin-left:: 100px;
+}
+
+ #question {
+   margin-bottom: 10px;
+   font-weight: 600
+ }
+
+#choice {
+  font-size: 13px;
+  padding-left: 20px;
+}
+
+#answer {
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+#correction {
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-size: 17px;
+  color: red;
+}
